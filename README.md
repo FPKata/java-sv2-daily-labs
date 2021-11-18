@@ -1,1 +1,1 @@
-# java-sv2-daily-labs
+### 5.heti konzultációs feladatok megoldása
